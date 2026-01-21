@@ -149,3 +149,200 @@ MonoBehaviour:
     - name: Prologue
       pathPrefix: Scripts
       guid: 8c4c2640be41fc542a58d93a22adc0ca
+  - Id: Characters/62f2dcab-7575-4ef3-ba6a-de21fe106862
+    Resources:
+    - name: 'mingi_angry '
+      pathPrefix: "Characters/\uBBFC\uC9C0"
+      guid: 1e0f70a3fd0f5a245a276b6c6dcd83aa
+    - name: 'mingi_basic '
+      pathPrefix: "Characters/\uBBFC\uC9C0"
+      guid: b7e3d87a984645343a46f764149eb6a4
+    - name: 'mingi_fear '
+      pathPrefix: "Characters/\uBBFC\uC9C0"
+      guid: f4b591d575014484f93fb2b7418c3960
+    - name: 'mingi_happy '
+      pathPrefix: "Characters/\uBBFC\uC9C0"
+      guid: bcdcb8c5165150b42a9d906accfcef2f
+    - name: mingi_happy 2
+      pathPrefix: "Characters/\uBBFC\uC9C0"
+      guid: 56fa636351ebc2d4dbb758fc57320ff6
+    - name: 'mingi_panic '
+      pathPrefix: "Characters/\uBBFC\uC9C0"
+      guid: 06074b9d41c6a354580983557e440a9b
+    - name: 'mingi_pleasure '
+      pathPrefix: "Characters/\uBBFC\uC9C0"
+      guid: 6a4da68e3b3d0284195b463cb807ffbf
+    - name: 'mingi_sad '
+      pathPrefix: "Characters/\uBBFC\uC9C0"
+      guid: b00ee543b7aaf0340975b48427bdbb7b
+    - name: 'mingi_serious '
+      pathPrefix: "Characters/\uBBFC\uC9C0"
+      guid: 62b771a95fb8dd24aa2f0d4d42c16178
+  - Id: Characters/7e519b9f-f3c0-4a84-8dd6-6b8c5b4e1746
+    Resources:
+    - name: 'eunju_angry '
+      pathPrefix: "Characters/\uC740\uC8FC"
+      guid: 17e94f4e7d2e65240abce008fe5bc65c
+    - name: 'eunju_contempt '
+      pathPrefix: "Characters/\uC740\uC8FC"
+      guid: 5dfae021602918547ad363e7eb7f1e3f
+    - name: 'eunju_crazy '
+      pathPrefix: "Characters/\uC740\uC8FC"
+      guid: a1acab968e3840845aaf4ff811572dba
+    - name: eunju_crazy 2
+      pathPrefix: "Characters/\uC740\uC8FC"
+      guid: a8787b90584504647ae593b7a40e457c
+    - name: 'eunju_faer '
+      pathPrefix: "Characters/\uC740\uC8FC"
+      guid: ca6a569d61a07a340b6b1f10edecaa95
+    - name: 'eunju_happy '
+      pathPrefix: "Characters/\uC740\uC8FC"
+      guid: f5f64f678bb54f749be512a7c4e8f745
+    - name: 'eunju_nasty '
+      pathPrefix: "Characters/\uC740\uC8FC"
+      guid: cc700d35fb97caf4992e0bcac2875500
+    - name: 'eunju_panic '
+      pathPrefix: "Characters/\uC740\uC8FC"
+      guid: a233ea2ca7ea7a4409c5f7a90efa1602
+    - name: 'eunju_pleasure '
+      pathPrefix: "Characters/\uC740\uC8FC"
+      guid: ccbb124ba1273fb4a83c2bae1cfa44f2
+    - name: 'eunju_sad '
+      pathPrefix: "Characters/\uC740\uC8FC"
+      guid: 4d9d5f5153e15354190ed11a20d17eb0
+    - name: 'eunju_serious '
+      pathPrefix: "Characters/\uC740\uC8FC"
+      guid: 5cf40b61bd877cb428e11c9a6e9c478c
+    - name: 'eunju_smile '
+      pathPrefix: "Characters/\uC740\uC8FC"
+      guid: c5e2c0d0a29104f45a8835fff5224e16
+    - name: eunju_smile 2
+      pathPrefix: "Characters/\uC740\uC8FC"
+      guid: 765b1597eec4b7b4b9e12d9a41ccc26a
+    - name: 'eunju_surprise '
+      pathPrefix: "Characters/\uC740\uC8FC"
+      guid: a7bb40cdab156e94ea1ba135bc7dc8fe
+  - Id: Characters/92c33b31-2762-48b5-a8fe-4acb8aa6e15c
+    Resources:
+    - name: 'hyunwoo_angry '
+      pathPrefix: "Characters/\uD604\uC6B0"
+      guid: 57f36479bdaf2494d83c886b6b7391f4
+    - name: 'hyunwoo_basic '
+      pathPrefix: "Characters/\uD604\uC6B0"
+      guid: 
+    - name: 'hyunwoo_contempt '
+      pathPrefix: "Characters/\uD604\uC6B0"
+      guid: d1ce6a705bb43c349a2dd8029e5ae229
+    - name: 'hyunwoo_fear '
+      pathPrefix: "Characters/\uD604\uC6B0"
+      guid: 5b4d1219c5fd1eb46995b3b1ba6ab2b9
+    - name: hyunwoo_mockery
+      pathPrefix: "Characters/\uD604\uC6B0"
+      guid: 4337dfed8a27abd42ae9639b3703d11b
+    - name: 'hyunwoo_sad '
+      pathPrefix: "Characters/\uD604\uC6B0"
+      guid: 3c71c05c420a0b74f93899a589fc14cd
+    - name: 'hyunwoo_serious '
+      pathPrefix: "Characters/\uD604\uC6B0"
+      guid: 2c733389444aa7f4483ef1a06d2d3536
+    - name: 'hyunwoo_smile '
+      pathPrefix: "Characters/\uD604\uC6B0"
+      guid: 36691f075e41d8d48b7b768a003ede0c
+  - Id: Backgrounds/1cde93e8-e9e8-4a40-a1bb-e331502954c5
+    Resources:
+    - name: kyunghohouse_entrance_morning
+      pathPrefix: Backgrounds/MainBackground
+      guid: f769bfed8403d3d489393f72d8e4f695
+    - name: kyunghohouse_kyunghoroom_morning
+      pathPrefix: Backgrounds/MainBackground
+      guid: 1ecfae1fed87962448f0dfe985eb8ed6
+    - name: kyunghohouse_livingroom_morning
+      pathPrefix: Backgrounds/MainBackground
+      guid: dff8f4e1fe6979e46839a738719f8728
+    - name: mainstreet_nightlight
+      pathPrefix: Backgrounds/MainBackground
+      guid: 45c691d75f24801429f8cd7e4bd14b82
+    - name: minjihouse_entrance_evening
+      pathPrefix: Backgrounds/MainBackground
+      guid: 643510208eba5074daa16709a0a69224
+    - name: minjihouse_livingroom_morning
+      pathPrefix: Backgrounds/MainBackground
+      guid: 091a56dd7fdae364c8211b72a842faf6
+    - name: minjihouse_minjiroom_morning
+      pathPrefix: Backgrounds/MainBackground
+      guid: 6b94c3e2e5f301046901b6785a58e8e5
+    - name: minjihouse_parkinglot_morning
+      pathPrefix: Backgrounds/MainBackground
+      guid: 617083d95ce5e114a87252f13b159863
+    - name: minjiillust_01-01
+      pathPrefix: Backgrounds/MainBackground
+      guid: b1cf42d850a50714c9f7da9eb9a766d6
+    - name: minjiillust_01-02
+      pathPrefix: Backgrounds/MainBackground
+      guid: a3a317fde0ecb63418dd5f15ef950f34
+    - name: minjiillust_01-03
+      pathPrefix: Backgrounds/MainBackground
+      guid: 6b038cf40d590cf469d8e361537d35f5
+    - name: minjiillust_03_01
+      pathPrefix: Backgrounds/MainBackground
+      guid: ba5f31d36e8af484aa0eba5de4d0c802
+    - name: minjiillust_03_02
+      pathPrefix: Backgrounds/MainBackground
+      guid: 9b03a02898f6b2e409de29dc680c96dc
+    - name: minjiillust_03_03
+      pathPrefix: Backgrounds/MainBackground
+      guid: f9c2ac9b8387e1c48bb50328af440ab9
+    - name: minjiillust_05_01
+      pathPrefix: Backgrounds/MainBackground
+      guid: 0de222ac85077de45a54ab619535c8d1
+    - name: minjiillust_06_01
+      pathPrefix: Backgrounds/MainBackground
+      guid: 5a409a50276f699418b14a4b590202a3
+    - name: minjiillust_06_02
+      pathPrefix: Backgrounds/MainBackground
+      guid: 0f8dfecc2501fee4181f3744537f1382
+    - name: minjiillust_06_03
+      pathPrefix: Backgrounds/MainBackground
+      guid: 8718a7c93162e7f4ab732c66b5fc7d00
+    - name: minjiillust_07_01
+      pathPrefix: Backgrounds/MainBackground
+      guid: 8482856facbfd754297d888f0b8843eb
+    - name: minjiillust_07_02
+      pathPrefix: Backgrounds/MainBackground
+      guid: f85b95f517a41df43b8c1938ed46da3f
+    - name: minjiillust_07_03
+      pathPrefix: Backgrounds/MainBackground
+      guid: c8237b0bebce5fb4f8ca909d79b452ee
+    - name: minjiillust_08_01
+      pathPrefix: Backgrounds/MainBackground
+      guid: 45aa47bfe315c2c4bb564b08f433c12b
+    - name: minjiillust_08_02
+      pathPrefix: Backgrounds/MainBackground
+      guid: 328db4bd300a4e243a76fdb80a0d495c
+    - name: minjiillust_08_03
+      pathPrefix: Backgrounds/MainBackground
+      guid: 61aebbca1d2d2be42ab219a7d0af8993
+    - name: minjiillust_09_01
+      pathPrefix: Backgrounds/MainBackground
+      guid: f5a7ecd82351bf74f8b3f2d1e0c0a669
+    - name: minjiillust_09_02
+      pathPrefix: Backgrounds/MainBackground
+      guid: d21ea586c85d482468cca87f04d2fc26
+    - name: minjiillust_09_03
+      pathPrefix: Backgrounds/MainBackground
+      guid: f15ef5cbcab85774bb59b556ab130f97
+    - name: minjiillust_11_01
+      pathPrefix: Backgrounds/MainBackground
+      guid: 43874ed060ebf454db7b99a50a838807
+    - name: minjiillust_11_02
+      pathPrefix: Backgrounds/MainBackground
+      guid: 7818ad4bdc8449d40a466c56c688247b
+    - name: minjiillust_11_03
+      pathPrefix: Backgrounds/MainBackground
+      guid: 3298fbb25bace184b98dbb94f5aa3e50
+    - name: minjiillust_13_01
+      pathPrefix: Backgrounds/MainBackground
+      guid: 183416324e6e1174f97da5c3ba902761
+    - name: minjiillust_13_02
+      pathPrefix: Backgrounds/MainBackground
+      guid: aff6b3382eccf1d41af733446cf40468
