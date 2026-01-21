@@ -30,6 +30,6 @@ MonoBehaviour:
   ObjectsLayer: 5
   FontOptions:
   - FontName: test
-    FontResource: 
+    FontResource: NotoSansKR-Regular SDF
     ApplyOnLocale: 
-  DefaultFont: 
+  DefaultFont: test
