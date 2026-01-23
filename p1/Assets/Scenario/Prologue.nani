@@ -74,7 +74,7 @@
 @back minjihouse_parkinglot_morning
 @sfx se_electric
 ; 대사 (이름: "내용")
-@char mingi_fear
+@char 민지.mingi_fear
 민지: "꺄아아아악!"
 "그녀가 미처 반응하기도 전에, 재빨리 품속에 있던 전기충격기를 가져다 댔다."
 @stop

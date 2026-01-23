@@ -151,31 +151,31 @@ MonoBehaviour:
       guid: 8c4c2640be41fc542a58d93a22adc0ca
   - Id: Characters/62f2dcab-7575-4ef3-ba6a-de21fe106862
     Resources:
-    - name: 'mingi_angry '
+    - name: mingi_angry
       pathPrefix: "Characters/\uBBFC\uC9C0"
       guid: 1e0f70a3fd0f5a245a276b6c6dcd83aa
-    - name: 'mingi_basic '
+    - name: mingi_basic
       pathPrefix: "Characters/\uBBFC\uC9C0"
       guid: b7e3d87a984645343a46f764149eb6a4
-    - name: 'mingi_fear '
+    - name: mingi_fear
       pathPrefix: "Characters/\uBBFC\uC9C0"
       guid: f4b591d575014484f93fb2b7418c3960
-    - name: 'mingi_happy '
+    - name: mingi_happy
       pathPrefix: "Characters/\uBBFC\uC9C0"
       guid: bcdcb8c5165150b42a9d906accfcef2f
-    - name: mingi_happy 2
+    - name: mingi_happy2
       pathPrefix: "Characters/\uBBFC\uC9C0"
       guid: 56fa636351ebc2d4dbb758fc57320ff6
-    - name: 'mingi_panic '
+    - name: mingi_panic
       pathPrefix: "Characters/\uBBFC\uC9C0"
       guid: 06074b9d41c6a354580983557e440a9b
-    - name: 'mingi_pleasure '
+    - name: mingi_pleasure
       pathPrefix: "Characters/\uBBFC\uC9C0"
       guid: 6a4da68e3b3d0284195b463cb807ffbf
-    - name: 'mingi_sad '
+    - name: mingi_sad
       pathPrefix: "Characters/\uBBFC\uC9C0"
       guid: b00ee543b7aaf0340975b48427bdbb7b
-    - name: 'mingi_serious '
+    - name: mingi_serious
       pathPrefix: "Characters/\uBBFC\uC9C0"
       guid: 62b771a95fb8dd24aa2f0d4d42c16178
   - Id: Characters/7e519b9f-f3c0-4a84-8dd6-6b8c5b4e1746

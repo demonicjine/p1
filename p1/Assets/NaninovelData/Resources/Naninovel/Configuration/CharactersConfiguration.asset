@@ -84,7 +84,7 @@ MonoBehaviour:
       customData:
         rid: -2
       Pivot: {x: 0.5, y: 0}
-      PixelsPerUnit: 100
+      PixelsPerUnit: 300
       EnableDepthPass: 1
       DepthAlphaCutoff: 0.5
       CustomTextureMaterial: {fileID: 0}
