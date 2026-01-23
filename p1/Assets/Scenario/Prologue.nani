@@ -1,7 +1,7 @@
 ; --- Scene 1: 지하주차장 (낮) ---
 ; 배경과 음악 설정
 @back minjihouse_parkinglot_morning
-@bgm "Echoes of the Abyss"
+@bgm Echoes_of_the_Abyss
 
 # Scene_1
 
@@ -70,9 +70,11 @@
 "심장이 일정하지 않은 박자로 뛰고, 숨소리가 묵직해진다."
 ; 나레이션 (이름 없이 작성)
 "나약해지려는 가슴을 붙잡고, 그녀의 뒤로 달려나갔다."
-@sfx Stop
+@stopSfx
 @back minjihouse_parkinglot_morning
-@sfx 28. se_punch2
+@sfx se_electric
 ; 대사 (이름: "내용")
+@char mingi_fear
 민지: "꺄아아아악!"
+"그녀가 미처 반응하기도 전에, 재빨리 품속에 있던 전기충격기를 가져다 댔다."
 @stop

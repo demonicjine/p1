@@ -363,120 +363,120 @@ MonoBehaviour:
       guid: 763edbc45efbc8a4cad673e70fa73d29
   - Id: Audio
     Resources:
-    - name: 1. se_basementdoor_open
+    - name: se_basementdoor_open
       pathPrefix: Audio
-      guid: bccef9dee64a8594d87b246f63b5c70c
-    - name: 2. se_birds
+      guid: 1d86a5a8ce1a2dd4a8c49b7d241f45dd
+    - name: se_birds
       pathPrefix: Audio
-      guid: 8b2f2e19f9e797c4d8ef77b4e24bbe10
-    - name: 3. se_elevatordeparture
+      guid: 2594f51f7abd72742bc4a026daed5d01
+    - name: se_elevatordeparture
       pathPrefix: Audio
-      guid: 261c9e93f451fee4c903a494890279e5
-    - name: 4. se_frontdoor_close
+      guid: d6fe99429868b1a469d521d17fb8b1c5
+    - name: se_frontdoor_close
       pathPrefix: Audio
-      guid: 2eb0fe41a52576441bf43389a4fdd45d
-    - name: 5. se_frontdoor_open
+      guid: 12689fde876f9764d898ea7392a83575
+    - name: se_frontdoor_open
       pathPrefix: Audio
-      guid: 55609b97fda853c48b9d2126e8c1f63d
-    - name: 6. se_heartbeat
+      guid: e7ddd40b35de0e141a96f06979a84a47
+    - name: se_heartbeat
       pathPrefix: Audio
-      guid: 619b07a48acd1ae478f6be0024ac1663
-    - name: 7. se_policesiren
+      guid: ca3c61320172faa47a6c65d0a289e56a
+    - name: se_policesiren
       pathPrefix: Audio
-      guid: 80d04a6b430916046a0311894cf1bff6
-    - name: 8. se_roomdoor_open
+      guid: 9776f962686a5114eb20813fbfa1aed1
+    - name: se_roomdoor_open
       pathPrefix: Audio
-      guid: 264303fee733b374c9a4e77972aac458
-    - name: 9. se_winds
+      guid: b51536f74b6c7b14e890bd90494a64e2
+    - name: se_winds
       pathPrefix: Audio
-      guid: a6f2b2ca1d82d5c43aa48b4f3dfe6a8e
-    - name: 10. se_slap
+      guid: 85ce65b7937c932498380bed39d97975
+    - name: se_slap
       pathPrefix: Audio
-      guid: 814f07efff67d6c41b0f72b35bc62fbc
-    - name: 11. se_manypunch
+      guid: e3f7e085117733948aa8f60668380a7b
+    - name: se_manypunch
       pathPrefix: Audio
-      guid: 27ebbdf4cea5a9f43b25ed858d9f2db1
-    - name: 12. se_punch
+      guid: 5278eee4d9724ab43b12e0ab0edb34a1
+    - name: se_punch
       pathPrefix: Audio
-      guid: 12cbf72db0b284e408ecd54b1d22929c
-    - name: 13. se_waterdrop
+      guid: 41d0d57d2716fed43a1fbf1e4f83e5ac
+    - name: se_waterdrop
       pathPrefix: Audio
-      guid: b42349d313e07054aabc0955f31cd63a
-    - name: 14. se_headhit
+      guid: f8003ebd887708843a743b102e4339f0
+    - name: se_headhit
       pathPrefix: Audio
-      guid: 393e7765ffe694b4b9c00843e8a274c9
-    - name: 15. se_plasticbag
+      guid: fbfcb866a8946a442ac18b711b503953
+    - name: se_plasticbag
       pathPrefix: Audio
-      guid: 2d349244edc82414eb30d45d6363e6a0
-    - name: 16. se_motorcycle
+      guid: 995719801fd0cc441b62e8b950b1dd27
+    - name: se_motorcycle
       pathPrefix: Audio
-      guid: 660f815204377084786c6931bf595c07
-    - name: 17. se_mess
+      guid: a885ff2961753c745afbffeb649f5cf9
+    - name: se_mess
       pathPrefix: Audio
-      guid: 273a8141adb4eba47bcdce9931206b9a
-    - name: 18. se_bathtub
+      guid: 5ce06a8105e8b8140a2b0a9b5dd2d4c7
+    - name: se_bathtub
       pathPrefix: Audio
-      guid: 9455beeada94eb14587a46cb2c7ca9e3
-    - name: 20. se_electric
+      guid: 5c6b95ebc11d2d44cb1d227f05c8f476
+    - name: se_electric
       pathPrefix: Audio
-      guid: 7c355c96a91ffaa4490392c9b602e686
-    - name: 21. se_car
+      guid: 818b5a90a4b168045ac567d7a764fc2e
+    - name: se_car
       pathPrefix: Audio
-      guid: 9307f25fe5bc45c43b4641c88ab7a7ae
-    - name: 22. se_locked
+      guid: fef1f5fc6fa696041be894a07c1c7ea4
+    - name: se_locked
       pathPrefix: Audio
-      guid: 261156bc3e194634eab1ff5a0f142e6b
-    - name: 23. se_doorbell
+      guid: db6bd5e8d9f6be04a9283340563fe336
+    - name: se_doorbell
       pathPrefix: Audio
-      guid: af231c9c0f8111d4081a142d0523a65b
-    - name: 24. se_stabbing
+      guid: 54a9ac56f6c776c48ba6e73e076319fe
+    - name: se_stabbing
       pathPrefix: Audio
-      guid: 0db42b14c08507940a7716c338ff59c4
-    - name: 25. se_boom
+      guid: 9c91bd486de7ccd40ad6ab231ac2d208
+    - name: se_boom
       pathPrefix: Audio
-      guid: 528012ec85910e34ebb1c8898abc4542
-    - name: 26. se_tumble
+      guid: fd723f88181616a49b218f169d94d88f
+    - name: se_tumble
       pathPrefix: Audio
-      guid: 9cf63a905cae342438206476f2802219
-    - name: 27. se_manypunch2
+      guid: 193d400df0f69974e9fa11a268a6bb2b
+    - name: se_manypunch2
       pathPrefix: Audio
-      guid: aba92f889fdf2454dba1b0c8846b5125
-    - name: 28. se_punch2
+      guid: de3103aa5da376c4c913aa2ab234e7a3
+    - name: se_punch2
       pathPrefix: Audio
-      guid: 81f5570cbacc41145a08171121f100b4
-    - name: Echoes of the Abyss
+      guid: 6ebedfeaf62319d4788b8bc9a14d693c
+    - name: Echoes_of_the_Abyss
       pathPrefix: Audio
-      guid: 89fe65c29db2fa94e8a31635051c12eb
-    - name: Falling Through the Sky
+      guid: c514bd504fca1214aabcb86e22eddc37
+    - name: Falling_Through_the_Sky
       pathPrefix: Audio
-      guid: d913d78ce168d304888c396dee5686b8
-    - name: Falling Through the Sky_2
+      guid: 5be18de14fa03a04f9e8ab241adf3d64
+    - name: Falling_Through_the_Sky_2
       pathPrefix: Audio
-      guid: cc43a113119fd3c40b91124f2cfe61b3
-    - name: Frozen Shadows
+      guid: 2e6a969e6fdf31647a207ec156cf8832
+    - name: Frozen_Shadows
       pathPrefix: Audio
-      guid: 21c1b298f6586024787f7031c58e1061
-    - name: Phantom Pulse
+      guid: 32078bba403d5b341afaec02c5b02681
+    - name: Phantom_Pulse
       pathPrefix: Audio
-      guid: 6d2b39b1b2bc4464f92f60aef29fa932
-    - name: Shadow Circuit
+      guid: 7a66879468bc683479728de9c4bfb052
+    - name: Shadow_Circuit
       pathPrefix: Audio
-      guid: 24f2bdfa7608b964e8eb9e72fc26e47f
-    - name: Shadows in the Static
+      guid: 8ebc805a584848643819d6f052e4e037
+    - name: Shadows_in_the_Static
       pathPrefix: Audio
-      guid: 0e4751817e7a0fe4492ce93d15ad4090
-    - name: Shadows Whisper
+      guid: b674ce469fef575489ec6209370308ff
+    - name: Shadows_Whisper
       pathPrefix: Audio
-      guid: 85e9318c82ca7074eb1eb33fd4ccca83
-    - name: Silent Fury
+      guid: 599a8f5a8bf17f247b8e1c0ba8b06e32
+    - name: Silent_Fury
       pathPrefix: Audio
-      guid: 39cd22c99422ce240af842d97866112b
-    - name: The Tension Builds
+      guid: 994bbde51ac4f9d48b4d688f20c332c7
+    - name: The_Tension_Builds
       pathPrefix: Audio
-      guid: 15e4e89f12930224bb87b3fcbea13d98
-    - name: Untouchable Pulse
+      guid: de2b51fbe0b6d284b838441ba9d75b37
+    - name: Untouchable_Pulse
       pathPrefix: Audio
-      guid: 4de6fbf65bd35ae43af8660bae24bdd6
-    - name: Velvet Shadows
+      guid: 42dc36d88ee4892459f5223d047e34eb
+    - name: Velvet_Shadows
       pathPrefix: Audio
-      guid: b15df9376e1d18d46bc49219dc0967d9
+      guid: 1231579a614207240b712a2c00ffa283
