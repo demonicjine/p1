@@ -149,6 +149,12 @@ MonoBehaviour:
     - name: Prologue
       pathPrefix: Scripts
       guid: 8c4c2640be41fc542a58d93a22adc0ca
+    - name: Chapter1
+      pathPrefix: Scripts
+      guid: 4041f6ac1d3c22d4681b6a0c33358d3b
+    - name: 
+      pathPrefix: Scripts
+      guid: 
   - Id: Characters/62f2dcab-7575-4ef3-ba6a-de21fe106862
     Resources:
     - name: mingi_angry
@@ -346,6 +352,9 @@ MonoBehaviour:
     - name: minjiillust_13_02
       pathPrefix: Backgrounds/MainBackground
       guid: aff6b3382eccf1d41af733446cf40468
+    - name: minjiillust_02_01
+      pathPrefix: Backgrounds/MainBackground
+      guid: e97537910d680e7408b4dafa8af87edc
   - Id: TextPrinters/6bdbe5bf-f11d-4118-847e-5b2a291618e6
     Resources:
     - name: MinjiPrinter
